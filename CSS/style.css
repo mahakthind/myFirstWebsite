@@ -1,0 +1,22 @@
+/* Mahakdeep Kaur - 8923181 */
+body {
+    font: 16px Arial, sans-serif;
+    background-color: hsla(75, 96%, 42%, 0.7);
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  h2 {
+    color: #369;
+    font-size: 1.5rem;
+  }
+  
+  ul {
+    list-style-type: circle; 
+  }
+  
+  li {
+    line-height: 1.4;
+    color: rgba(0, 128, 0, 0.8);
+  }
+  
